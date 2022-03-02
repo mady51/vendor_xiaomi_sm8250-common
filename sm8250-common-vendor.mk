@@ -845,9 +845,7 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     IMSAudio \
     QtiTelephonyService \
-    DaxUI \
     WfdService \
-    daxService \
     ims \
     qcrilmsgtunnel \
     WfdCommon \
